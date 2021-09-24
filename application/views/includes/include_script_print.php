@@ -1,0 +1,1 @@
+<script src="<?= base_url() ?>assets/js/print_window.js"></script>

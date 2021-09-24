@@ -1,0 +1,1 @@
+<script src="<?= base_url() ?>assets/js/system/administracion/administracion_pago_vendedor.js"></script>

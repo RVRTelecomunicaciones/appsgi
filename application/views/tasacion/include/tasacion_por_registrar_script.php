@@ -1,0 +1,1 @@
+<script src="<?= base_url() ?>assets/js/system/tasacion/tasacion_por_registrar.js"></script>

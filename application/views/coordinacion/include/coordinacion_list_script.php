@@ -1,0 +1,1 @@
+<script src="<?= base_url() ?>assets/js/system/coordinacion/coordinacion_list.js"></script>

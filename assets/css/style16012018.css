@@ -1,0 +1,82 @@
+
+table.datatable tfoot {
+  display: table-header-group;
+}
+.datatable tfoot {
+  display: table-header-group;
+}
+datatable-buttons tfoot {
+  display: table-header-group;
+}
+.badge-primary {
+  background-color: #1b54b8;
+}
+dataTable {
+  border-collapse: collapse;
+}
+.table {
+  border-collapse: collapse;
+}
+table.dataTable {
+  border-collapse: collapse;
+}
+th {
+  white-space: normal;
+}
+.table thead th{
+  font-size: 0.775rem;
+  border-collapse: collapse;
+  vertical-align: middle;
+/*white-space: nowrap;*/
+  text-align: center;
+}
+.table tfoot th{
+  font-size: 0.775rem;
+  border-collapse: collapse;
+  vertical-align: middle;
+/*white-space: nowrap;*/
+  text-align: center;
+}
+/*sirve para que las letras no se dispersen*/
+
+.table td, .table td{
+  font-size: 0.775rem;
+  text-align: center;
+  /*white-space: nowrap;*/
+}
+.table td, .table th {
+  padding: 0.75rem 0.6rem;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+/*FUNCIONAL QUITA PADDIN AL BODY*/
+.card-body {
+  padding: 0.8rem;
+}
+.card-header {
+  padding: 1.5rem 1.5rem 0.8rem 1.5rem;
+}
+
+
+
+/*table {*/
+  /*border-collapse: collapse;*/
+/*}*/
+
+/*table{
+  table-layout: fixed;
+  width: 250px;
+}
+
+th, td {
+  border: 1px solid blue;
+  width: 100px;
+  word-wrap: break-word;
+}*/
+
+/*#datatable-buttons > tbody > tr > td {*/
+  /*word-break: break-all;*/
+/*}*/

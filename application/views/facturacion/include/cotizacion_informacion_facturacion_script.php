@@ -1,0 +1,1 @@
+<script src="<?= base_url() ?>assets/js/system/facturacion/cotizacion_informacion_facturacion.js"></script>
